@@ -3,6 +3,7 @@ This contains XD File for pre-work for UI/UX Internship at Sparsh Innovators Pri
 
 Part A. Making a copy of given screen.
 -> Have used related images, for now, without keeping in mind any liscencing issues.
+-> Was not possible to get same font so have used whichever I feeled to be similar and good looking.
 
 Part B. Designing a Destination/Hotel booking admin
 -> Have kept the same theme the given screen in PartA.
