@@ -6,8 +6,8 @@ Part A. Making a copy of given screen.
 -> Was not possible to get same font so have used whichever I feeled to be similar and good looking.
 
 Part B. Designing a Destination/Hotel booking admin
--> Have kept the same theme the given screen in PartA.
--> Various things on the designed screen can be clickable to get more details
+-> Have kept the same theme as the given screen in PartA.
+-> Various things on the designed screen can be kept clickable to get more details for the same
 
 Thankyou.
 Looking forward to work with your organization soon.
